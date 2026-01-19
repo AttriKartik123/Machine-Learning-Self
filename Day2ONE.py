@@ -3,6 +3,8 @@ print(tup)
 print(id(tup[0]))
 print(id(tup[1]))
 
+
+
 #Fetching values 
 #print(tup[0])
 
@@ -16,3 +18,12 @@ print(id(Lis1[1])) '''
 
 
 
+#SET
+
+s = {22 ,25, 14 ,21, 5}
+print(s)
+
+s={25, 14, 98 ,63 , 98}
+print(s)
+
+#print(s[1])   IT WILL THROW ERROR BECOZ THERE IS NO INDEXING IN SETS THATS WHY WE CANT FETCH ELEMENTS IN SETS 
